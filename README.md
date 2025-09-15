@@ -1,5 +1,5 @@
-# Database-for-Internal-Assesment
-This is a Database made in order to train a Pipeline with several AI Models and compare their performance. This was made with the aid of the Chat-GPT model from OpenAI.
+# Internal Assesment AI comparison
+This includes is a Pipeline with several AI Models in order to compare their performance with a training based on the data also included as cvs file. This was made with the aid of the Chat-GPT model from OpenAI.
 BiBliografy:
 World Bank Open Data. (n.d.-b). World Bank Open Data. https://datos.bancomundial.org/indicador/SL.UEM.TOTL.ZS
 Human Development Index (HDI) by country 2025. (n.d.). World Population Review. https://worldpopulationreview.com/country-rankings/hdi-by-country
